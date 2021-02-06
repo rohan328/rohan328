@@ -15,7 +15,7 @@
 <p align="center">I'm a Undergrad Student at San Jose State University pursuing my Bachelors degree in Computer Engineering and will be graduating Dec 2022.
 </p>
 
-<p align="left">
+<p align="center">
   
  <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg alt=java width="40" height="40"/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg alt=android width="40" height="40"/>
